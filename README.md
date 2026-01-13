@@ -3,9 +3,13 @@
 
 1.	Which of the following is NOT a core application area for Python as mentioned in the curriculum?
 		a) Data science	
+		
 		b) Software development	
+		
 		c) Game development	
+		
 		d) Automation
+		
 
 3.	In which year was the provided curriculum for BDCPC301 issued?
 		a) 2023	
