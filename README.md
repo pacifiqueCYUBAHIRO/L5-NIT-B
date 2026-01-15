@@ -1,4 +1,4 @@
-# L5-NIT-B
+# L5-NIT-A&B
 # GROUP ASSIGNMENT
 
 1.	Which of the following is NOT a core application area for Python as mentioned in the curriculum?
